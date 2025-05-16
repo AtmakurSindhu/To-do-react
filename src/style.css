@@ -126,3 +126,17 @@
 }
 
 
+/* style.css */
+
+.mh {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color:white;
+  background-color: rgb(243, 117, 184); /* Corrected the comment to match the color */
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  font-family: sitka small;
+}
+
